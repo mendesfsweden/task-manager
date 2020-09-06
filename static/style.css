@@ -1,0 +1,17 @@
+/*body{
+    background-color: red;
+}*/
+
+.btn_small {
+    height: 22px;
+    width: 60px;
+    line-height: 22px;
+    margin: 5px 5px;
+    padding: 0 0.5em;
+    font-size: 15px
+}
+
+.task_header{
+    margin-top: 8px;
+}
+
